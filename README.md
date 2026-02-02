@@ -74,7 +74,7 @@ This project analyzes loan performance data to assess credit risk, evaluate appr
 
 ## 📊 Dashboard Highlights
 
-![Credit Risk Dashboard](https://github.com/favouritefavil/Credit-Risk-Loan-performance-Analysis/blob/main/Credit%20Risk%20Dashboard1.png)
+[Credit Risk Dashboard](Credit-Risk-Loan-performance-Analysis/blob/main/Credit%20Risk%20Dashboard1.png)
 
 The interactive Excel dashboard provides comprehensive visualizations:
 
