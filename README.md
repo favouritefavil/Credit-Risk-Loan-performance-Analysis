@@ -74,7 +74,7 @@ This project analyzes loan performance data to assess credit risk, evaluate appr
 
 ## 📊 Dashboard Highlights
 
-![Credit Risk Dashboard](dashboard/Credit_Risk_Dashboard.png)
+![Credit Risk Dashboard](https://github.com/favouritefavil/Credit-Risk-Loan-performance-Analysis/blob/main/Credit%20Risk%20Dashboard1.png)
 
 The interactive Excel dashboard provides comprehensive visualizations:
 
@@ -251,7 +251,7 @@ The interactive Excel dashboard provides comprehensive visualizations:
 **Favour Chegwe** - Data Analyst
 
 - GitHub: [@favouritefavil](https://github.com/favouritefavil)
-- LinkedIn: [Your Profile](www.linkedin.com/in/favour-chegwe)
+- LinkedIn: [Chegwe Favour](www.linkedin.com/in/favour-chegwe)
 
 ---
 
