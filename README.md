@@ -16,8 +16,6 @@ A comprehensive credit risk assessment analyzing 124,549 loans to identify defau
 - [Strategic Recommendations](#strategic-recommendations)
 - [Business Impact](#business-impact)
 - [Skills Demonstrated](#skills-demonstrated)
-- [Project Files](#project-files)
-- [How to Use](#how-to-use)
 
 ## 🎯 Project Overview
 
@@ -223,45 +221,6 @@ The interactive Excel dashboard provides comprehensive visualizations:
 - Default prediction
 - Risk mitigation strategies
 
-## 📁 Project Files
-
-```
-credit-risk-loan-analysis/
-│
-├── README.md
-├── INSIGHTS.md
-│
-├── dashboard/
-│   └── Credit_Risk_Dashboard.png
-│
-├── data/
-│   ├── Credit_Risk_Loan_Performance_Analysis.xlsx
-│   └── data_dictionary.md
-│
-└── docs/
-    └── methodology.md
-```
-
-## 🚀 How to Use
-
-1. **Download Repository**
-   ```bash
-   git clone https://github.com/yourusername/credit-risk-loan-analysis.git
-   ```
-
-2. **Open Excel File**
-   - Navigate to `/data` folder
-   - Open `Credit_Risk_Loan_Performance_Analysis.xlsx`
-
-3. **Explore Analysis**
-   - Dataset: 124,549 loan records
-   - Analysis: Pivot tables
-   - Dashboard: Interactive visualizations
-
-4. **Customize**
-   - Modify risk bands
-   - Add calculated fields
-   - Extend visualizations
 
 ## 🎯 Key Takeaways
 
